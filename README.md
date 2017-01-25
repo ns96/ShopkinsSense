@@ -17,7 +17,7 @@ Plan for the immediate future are to
 
 ## Running
 To run tis application locally
-1. change to directory where code was downloaded
-2. execute python shopkins_app.py
+* change to directory where code was downloaded
+* execute python shopkins_app.py
 
-On the Rasperry Pi 3 it takes about 12 min for feature extraction to be done on all 600+ character images
+On the Raspberry Pi 3 it takes about 12 mins to start web application since feature extraction needs to be done on 600+ character images.
